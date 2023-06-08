@@ -1,16 +1,14 @@
-### Hi there 👋
+### Muhammad Ilyas 👋 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ilyas-b0b733251/)](https://www.linkedin.com/in/muhammad-ilyas-b0b733251/)
 
-<!--
-**ilyaszarif/ilyaszarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Data for Life..!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍🔬 Interested in Ecology and Evolution
+- 🔭 Currently studying at [University of Exeter](https://exeter.ac.uk)
+- 💻 Experienced working with data from field based wildlife surveys and, data visualization and data analysis in R and Python
+- 🔍 More about me here: [ilyaszarif.github.io](https://ilyaszarif.github.io/)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaszarif&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilyaszarif.ilyaszarif)
