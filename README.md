@@ -2,7 +2,7 @@
 
 > Data 🧮 for Life..!
 
-- 🇵🇰
+- From 🇵🇰
 - 🧬 Interested in Ecology and Evolution of wild fauna 🐺 🦊 🦝 🦁 🐅 🐆 🦅 🦩
 - :electron: Currently 🧑‍🎓 studying [Msc Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) at 🏫 [University of Exeter](https://exeter.ac.uk)
 - 💻 Experienced working with data from field based wildlife surveys, data data analysis and visualization in R and Python; bit of MATLAB
