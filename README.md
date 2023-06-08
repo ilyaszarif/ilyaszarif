@@ -4,7 +4,7 @@
 
 - 🧬 Interested in Ecology and Evolution of wild fauna 🐺 🦊 🦝 🦁 🐅 🐆 🦅 🦩
 - :electron: Currently 🧑‍🎓 studying [Msc Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) at 🏫 [University of Exeter](https://exeter.ac.uk)
-- 💻 Experienced working with data from field based wildlife surveys, data data analysis and visualization in R and [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white); bit of MATLAB
+- 💻 Experienced working with data from field based wildlife surveys, data data analysis and visualization in <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a> and <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>; bit of MATLAB
 - 🔍 More about me here: 🌐[ilyaszarif.github.io](https://ilyaszarif.github.io/)
 
 
