@@ -8,7 +8,7 @@
   </a>
 </div>
   
-<img src="https://komarev.com/ghpvc/?username=ilyaszarif&style=flat-square&color=blue" alt=""/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilyaszarif.ilyaszarif)
 
 ### Muhammad Ilyas 👋
 
@@ -37,5 +37,3 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaszarif&hide=TeX&layout=compact)
-
-#![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilyaszarif.ilyaszarif)
