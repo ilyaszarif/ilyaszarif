@@ -12,7 +12,7 @@
 
 ### Muhammad Ilyas 👋
 
- Data 🧮 for Life..!
+ **Data 🧮 for Life..!**
 
 🧬 Interested in Ecology and Evolution of wild fauna 🐺 🦊 🦝 🦁 🐅 🐆 🦅 🦩
 :electron: Currently 🧑‍🎓 studying [Msc Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) at 🏫 [University of Exeter](https://exeter.ac.uk)
