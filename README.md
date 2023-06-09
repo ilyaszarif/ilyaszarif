@@ -11,11 +11,11 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilyaszarif.ilyaszarif)
 
 ### Hi I'm **Muhammad Ilyas** 👋
-
+Currently 🧑‍🎓 studying [Msc Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) at  <a href="https://www.exeter.ac.uk/" title="University of Exeter"><img src="https://github.com/ilyaszarif/msc-ads-quarto-dissertation/blob/main/figures/UOE-green.svg" alt="University of Exeter" width="90px" height="25px"></a>
 </div>
 
+---
 - 🧬 Interested in Ecology and Evolution of wild fauna 🐺 🦊 🦝 🦁 🐅 🐆 🦅 🦩
-- :electron: Currently 🧑‍🎓 studying [Msc Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) at  <a href="https://www.exeter.ac.uk/" title="University of Exeter"><img src="https://github.com/ilyaszarif/msc-ads-quarto-dissertation/blob/main/figures/UOE-green.svg" alt="University of Exeter" width="21px" height="21px"></a>
 - 💻 Experienced working with data from field based wildlife surveys, data analysis and visualization in <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a> and <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>; bit of <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="21px" height="21px"></a>
 - 🔍 More about me here: 🌐[ilyaszarif.github.io](https://ilyaszarif.github.io/)
 
