@@ -1,4 +1,16 @@
-### Muhammad Ilyas 👋 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ilyas-b0b733251/)](https://www.linkedin.com/in/muhammad-ilyas-b0b733251/)
+<div align="center">
+<div id="badges">
+  <a href="https://twitter.com/himalayan_lynx">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>  
+  <a href="https://www.linkedin.com/in/muhammad-ilyas-b0b733251/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+  
+<img src="https://komarev.com/ghpvc/?username=ilyaszarif&style=flat-square&color=blue" alt=""/>
+
+### Muhammad Ilyas 👋
 
 > Data 🧮 for Life..!
 
@@ -26,4 +38,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaszarif&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilyaszarif.ilyaszarif)
+#![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilyaszarif.ilyaszarif)
