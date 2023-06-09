@@ -12,12 +12,12 @@
 
 ### Muhammad Ilyas 👋
 
-> Data 🧮 for Life..!
+ Data 🧮 for Life..!
 
-- 🧬 Interested in Ecology and Evolution of wild fauna 🐺 🦊 🦝 🦁 🐅 🐆 🦅 🦩
-- :electron: Currently 🧑‍🎓 studying [Msc Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) at 🏫 [University of Exeter](https://exeter.ac.uk)
-- 💻 Experienced working with data from field based wildlife surveys, data analysis and visualization in <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a> and <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>; bit of <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="21px" height="21px"></a>
-- 🔍 More about me here: 🌐[ilyaszarif.github.io](https://ilyaszarif.github.io/)
+🧬 Interested in Ecology and Evolution of wild fauna 🐺 🦊 🦝 🦁 🐅 🐆 🦅 🦩
+:electron: Currently 🧑‍🎓 studying [Msc Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) at 🏫 [University of Exeter](https://exeter.ac.uk)
+💻 Experienced working with data from field based wildlife surveys, data analysis and visualization in <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a> and <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>; bit of <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="21px" height="21px"></a>
+🔍 More about me here: 🌐[ilyaszarif.github.io](https://ilyaszarif.github.io/)
 
 ---
 ## 🛠️ Languages and Tools 
