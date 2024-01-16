@@ -15,7 +15,7 @@
 ### Hi I'm **Muhammad Ilyas** <a href="https://ilyaszarif.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
   
-Currently 🧑‍🎓 studying [Msc Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) at  <a href="https://www.exeter.ac.uk/" title="University of Exeter"><img src="https://github.com/ilyaszarif/msc-ads-quarto-dissertation/blob/main/figures/UOE-green.svg" alt="University of Exeter" width="90px" height="25px"></a>
+I recently graduated with [MSc in Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) from  <a href="https://www.exeter.ac.uk/" title="University of Exeter"><img src="https://github.com/ilyaszarif/msc-ads-quarto-dissertation/blob/main/figures/UOE-green.svg" alt="University of Exeter" width="90px" height="25px"></a>
 </div>
 
 ---
