@@ -17,7 +17,7 @@
 
   
 I will commence my joint PhD in Macroecology and Biodiversity Conservation at [
-Center for Macroecology, Evolution and Climate, University of Copenhagen](https://macroecology.ku.dk/) and [Environment Institute University of Adelaide](https://www.adelaide.edu.au/environment/) In 2023, I graduated with [MSc in Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) from  <a href="https://www.exeter.ac.uk/" title="University of Exeter"><img src="https://github.com/ilyaszarif/msc-ads-quarto-dissertation/blob/main/figures/UOE-green.svg" alt="University of Exeter" width="90px" height="25px"></a>
+Center for Macroecology, Evolution and Climate, University of Copenhagen](https://macroecology.ku.dk/) and [Environment Institute University of Adelaide](https://www.adelaide.edu.au/environment/). In 2023, I graduated with [MSc in Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) from  <a href="https://www.exeter.ac.uk/" title="University of Exeter"><img src="https://github.com/ilyaszarif/msc-ads-quarto-dissertation/blob/main/figures/UOE-green.svg" alt="University of Exeter" width="90px" height="25px"></a>
 </div>
 
 ---
