@@ -1,8 +1,9 @@
 <div align="center">
 <div id="badges">
   <a href="https://twitter.com/himalayan_lynx">
-    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X"/>
   </a>  
+  
   <a href="https://www.linkedin.com/in/muhammad-ilyas-b0b733251/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -15,7 +16,8 @@
 ### Hi I'm **Muhammad Ilyas** <a href="https://ilyaszarif.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
   
-I recently graduated with [MSc in Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) from  <a href="https://www.exeter.ac.uk/" title="University of Exeter"><img src="https://github.com/ilyaszarif/msc-ads-quarto-dissertation/blob/main/figures/UOE-green.svg" alt="University of Exeter" width="90px" height="25px"></a>
+I will commence my joint PhD in Macroecology and Biodiversity Conservation at [
+Center for Macroecology, Evolution and Climate, University of Copenhagen](https://macroecology.ku.dk/) and [Environment Institute University of Adelaide](https://www.adelaide.edu.au/environment/) In 2023, I graduated with [MSc in Applied Data Science (Ecology and Evolution)](https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdataeco/) from  <a href="https://www.exeter.ac.uk/" title="University of Exeter"><img src="https://github.com/ilyaszarif/msc-ads-quarto-dissertation/blob/main/figures/UOE-green.svg" alt="University of Exeter" width="90px" height="25px"></a>
 </div>
 
 ---
